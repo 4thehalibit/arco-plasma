@@ -1,0 +1,13 @@
+# This is Git's per-user configuration file.
+[user]
+# Please adapt and uncomment the following lines:
+	name = Vincent Westberg
+	email = 4thehalibit@gmail.com
+
+[init]
+# Git default branch name
+	defaultBranch = main
+
+[core]
+# set default editor
+	editor = neovim
